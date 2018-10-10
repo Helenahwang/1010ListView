@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "singers">
+        <item>러블리즈</item>
+        <item>에이핑크</item>
+        <item>블랙핑크</item>
+        <item>아이유</item>
+        <item>레드벨벳</item>
+        <item>BTS</item>
+        <item>샤이니</item>
+        <item>트와이스</item>
+        <item>선미</item>
+        <item>유리</item>
+    </string-array>
+</resources>
